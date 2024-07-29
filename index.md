@@ -6,3 +6,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] practice ballet
+- [ ] be a pirate
+- [x] dance while being a pirate
